@@ -1,0 +1,128 @@
+#wrapper{
+    width: 800px;
+            margin: 0 auto;
+            text-align: center;
+            padding: 0 10px;
+}
+aside{
+    background:#570907;
+    margin:-50px 0 -10px -10px;
+    padding:50px 30px 50px 30px;
+    width:150px;
+    height:100%;
+    color:#8ad5be;
+    float:left;
+    text-align:left;
+    
+}
+a{
+    color:#8ad5be;
+    text-decoration:none;
+}
+#main{
+    width:500px;
+    background:white;
+    color:black;
+    
+}
+img {
+    width:100px;
+    border:1px solid black;
+    margin-left:20px;
+    
+}
+.titleOnRange{
+    font-size:0.7em;
+    margin-top:10px;
+}
+.needZoom{
+    margin-top:5px;
+    font-size:0.1em;
+}
+.needZoom:hover{
+    font-size:1em;
+}
+.lineDiv{
+    width:150px;
+    margin-top:10px;
+   
+}
+.range{
+    
+    height:15px;
+    background:#742c1f;
+}
+.value{
+    float:left;
+    width:10px;
+    height:15px;
+    background:#834236;
+}
+.lineDiv div img{
+    width:20px;
+    float:left;
+    border:none;
+    margin-left:0;
+    margin-right:5px;
+}
+.lineDiv p{
+    font-size:0.9em;
+    margin-left:5px;
+}
+.title {
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+
+.main{
+    color:black;
+    width:600px;
+    float:right;
+}
+.main header{
+    margin-top:10px;
+    margin-left:20px;
+    font-size:2em;
+}
+.rCube {
+    clear:left;
+}
+.rCube img{
+    margin-top:25px;
+     width:15px;
+    height:20px;
+    float:left;
+}
+.semiHeader{
+    float:left;
+    margin-left:10px;
+    padding-top:25px;
+    font-size:1.2em;
+    color:#570907;
+}
+.mainSide{
+    width:150px;
+    float:left;
+    margin-top:20px;
+}
+.gCube img{
+    clear:left;
+    float:left;
+     margin-top:20px;
+     width:15px;
+    height:50px;
+    float:left;
+
+}
+.texting{
+    font-size:1.1em;
+    margin-top:45px;
+    
+}
+.line{
+    border-bottom:2px solid #570907;
+    width:400px;
+    margin-top:32px;
+    margin-left:200px;
+}
